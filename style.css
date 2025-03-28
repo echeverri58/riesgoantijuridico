@@ -235,7 +235,7 @@ ul {
 
 /* --- Sección Hero --- */
 .hero {
-    background: linear-gradient(rgba(10, 47, 90, 0.8), rgba(10, 47, 90, 0.7)), url('https://via.placeholder.com/1920x800/0a2f5a/ffffff?text=Imagen+Fondo+Profesional') no-repeat center center/cover;
+    background: linear-gradient(rgba(10, 47, 90, 0.8), rgba(10, 47, 90, 0.7)), url('https://github.com/echeverri58/riesgoantijuridico/blob/main/image_fx_%20(1).jpg') no-repeat center center/cover;
     color: var(--light-text-color);
     padding: 100px 0;
     text-align: center;
